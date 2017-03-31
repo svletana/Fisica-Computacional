@@ -11,8 +11,8 @@ int main(int argc, char *argv[]) {
   for(int i=0;i<n;i++){
     for(int j=0;j<n;j++) {
 
-      double r = 2*((double)rand())/RAND_MAX; //generate random number between 0 and 1
-
+      double r =  ((double)rand())/RAND_MAX; //generate random number between 0 and 1
+      
       if(r<threshold) {
         netw[i][j] = 1;
       }
