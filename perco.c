@@ -1,29 +1,162 @@
-#include <stdlib.h>
 #include <stdio.h>
+#include <stdlib.h>
 #include <math.h>
-#include <time.h>
 
-int main(int argc, char *argv[]) {
-  double threshold = strtod(argv[1], NULL); //probability of site being occuppied
-  int n = atoi(argv[2]);
-  int netw[n][n];
-  srand(time(NULL));
-  for(int i=0;i<n;i++){
-    for(int j=0;j<n;j++) {
+#define P     16             // 1/2^P, P=16
+#define Z     27000          // iteraciones
+#define N     30             // lado de la red simulada
 
-      double r =  ((double)rand())/RAND_MAX; //generate random number between 0 and 1
+
+void  llenar(int *red,int n,float prob); //done
+int   hoshen(int *red,int n); //done h
+int   actualizar(int *red,int *clase,int s,int frag);
+void  etiqueta_falsa(int *red,int *clase,int s1,int s2);
+void  corregir_etiqueta(int *red,int *clase,int n);
+int   percola(int *red,int n);
+
+int main(int argc,char *argv[])
+{
+  int    i,j,n,z,*red;
+  float  prob,denominador;
+
+  n=N;
+  z=Z;
+
+  if (argc==3) 
+     {
+       sscanf(argv[1],"%d",&n);
+       sscanf(argv[2],"%d",&z);
+     }
+    
+  red=(int *)malloc(n*n*sizeof(int));
+
+
+
+  for(i=0;i<z;i++)
+    {
+      prob=0.5;
+      denominador=2.0;
+ 
+      srand(time(NULL));
+
+      for(j=0;j<P;j++)
+        {
+          llenar(red,n,prob); //llena red
       
-      if(r<threshold) {
-        netw[i][j] = 1;
-      }
-      else {
-        netw[i][j] = 0;
-      }
-      printf("%d ",netw[i][j]);
-    }
-    printf("\n");
+          hoshen(red,n); //etiqueta red
+        
+          denominador=2.0*denominador; //kesesto
 
-  }
+          if (percola(red,n)) 
+             prob+=(-1.0/denominador); 
+          else prob+=(1.0/denominador);
+        }
+    }
+
+  free(red);
 
   return 0;
+}
+
+
+
+int hoshen(int *red,int n)
+{
+  /*
+    Esta funcion implementa en algoritmo de Hoshen-Kopelman.
+    Recibe el puntero que apunta a la red y asigna etiquetas 
+    a cada fragmento de red. 
+  */
+
+  int i,j,k,s1,s2,frag;
+  int *clase;
+
+  frag=0;
+  
+  clase=(int *)malloc(n*n*sizeof(int));
+
+  for(k=0;k<n*n;k++) *(clase+k)=frag;
+  
+  // primer elemento de la red
+
+  s1=0;
+  frag=2;
+  if (*red) frag=actualizar(red,clase,s1,frag);
+  
+  // primera fila de la red
+
+  for(i=1;i<n;i++) 
+    {
+      if (*(red+i)) 
+         {
+           s1=*(red+i-1);  
+           frag=actualizar(red+i,clase,s1,frag);
+         }
+    }
+  
+
+  // el resto de las filas 
+
+  for(i=n;i<n*n;i=i+n)
+    {
+
+      // primer elemento de cada fila
+
+      if (*(red+i)) 
+         {
+           s1=*(red+i-n); 
+           frag=actualizar(red+i,clase,s1,frag);
+         }
+
+      for(j=1;j<n;j++)
+	if (*(red+i+j))
+	  {
+	    s1=*(red+i+j-1); 
+            s2=*(red+i+j-n);
+
+	    if (s1*s2>0)
+	      {
+		etiqueta_falsa(red+i+j,clase,s1,s2);
+	      }
+	    else 
+	      { if (s1!=0) frag=actualizar(red+i+j,clase,s1,frag);
+	        else       frag=actualizar(red+i+j,clase,s2,frag);
+	      }
+	  }
+    }
+
+
+  corregir_etiqueta(red,clase,n);
+
+  free(clase);
+
+  return 0;
+}
+
+
+void  llenar(int *red,int n,float prob) 
+{
+	/*
+	Esta funcion llena una red con una dada probabilidad. 
+	Recibe el puntero a la red, el tamaño de la misma y la probabilidad de ocupar un sitio. 
+	*/
+	int i,j;
+	for(i=0;i<n-1;i++) //row index
+	{
+		for(j=0;j<n-1;j++) //column index
+		{
+		  double r =  ((double)rand())/RAND_MAX; //generate random number between 0 and 1
+		  if(r<prob) { *(red + i*n + j) = 1; }
+		  else { *(red + i*n + j) = 0; }
+		}
+	}
+}
+
+
+int   actualizar(int *red,int *clase,int s,int frag)
+{
+	/*
+	test
+	*/
+	
 }
