@@ -80,6 +80,7 @@ int hoshen(int *red,int n)
   clase=(int *)malloc(n*n*sizeof(int)); //alocatea el vector de etiquetas en memoria
 
   for(k=0;k<n*n;k++) *(clase+k)=frag; //...y la llena de ceros
+  *(clase + 1) = 1;
 
   // primer elemento de la red
 
@@ -133,6 +134,10 @@ int hoshen(int *red,int n)
 
   corregir_etiqueta(red,clase,n);
 
+  int m;
+  for(m=0;m<n*n;m++) { printf("%d | ", *(clase + m)); }
+  printf("\n size clase: %d \n\n", n*n);
+
   free(clase);
 
   return 0;
@@ -146,6 +151,7 @@ void  llenar(int *red,int n,float prob)
 	Recibe el puntero a la red, el tamaño de la misma y la probabilidad de ocupar un sitio.
 	*/
 	int i,j;
+
 	for(i=0;i<n;i++) //row index
 	{
 		for(j=0;j<n;j++) //column index
@@ -166,7 +172,7 @@ int   actualizar(int *red,int *clase,int s,int frag)
   if(s==0 && *red)
   {
     *red = frag;
-    //clase = ?
+    *(clase + frag) = frag;
     frag++;
   }
   else
@@ -179,26 +185,58 @@ int   actualizar(int *red,int *clase,int s,int frag)
 
 void  etiqueta_falsa(int *red,int *clase,int s1,int s2, int n)
 {
-  if(s1<s2) { *red = s1; *(red - n) = s1; }
-  else { *red = s2; *(red - 1) = s2;}
-  //clase = ?
+  if(s1<s2)
+  {
+    *red = s1;
+    *(red - n) = s1;
+    *(clase + s2) = -s1;
+  }
+  else if(s2<s1)
+  {
+    *red = s2;
+    *(red - 1) = s2;
+    *(clase + s1) = -s2;
+  }
+  else
+  {
+    actualizar(red,clase,s1,s1);
+  }
 }
 
 void  corregir_etiqueta(int *red,int *clase,int n)
 {
-
+  int k,h,p;
+  for(k=0;k<n*n;k++)
+  {
+    h = *(red + k);
+    if(h>1)
+    {
+      p = *(clase + h);
+      if(p<0)
+      {
+        while(p<0) { p = *(clase - p); }
+        *(red + k) = p;
+      }
+    }
+  }
 }
 
 void  imprimir(int *red,int n)
 {
-  int i,j;
+  int i,j,k;
   for(i=0;i<n;i=i+1)
   {
     for(j=0;j<n;j=j+1)
     {
-      printf("%d ",red[i*n + j]);
+      if(red[i*n+j]==0) { printf("\x1B[0m %2.2d ",red[i*n + j]); }
+      else
+      {
+
+        printf("\x1B[36m %2.2d ",red[i*n + j]);
+      }
     }
-    printf("\n");
+    printf("\x1B[0m\n");
   }
-  printf("\n------\n");
+  printf("\x1B[0m\n------\n");
+
 }
