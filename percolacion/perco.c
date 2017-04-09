@@ -8,13 +8,13 @@
 #define N     5             // lado de la red simulada
 
 
-void  llenar(int *red,int n,float prob);
-int   hoshen(int *red,int n);
-int   actualizar(int *red,int *clase,int s,int frag);
-void  etiqueta_falsa(int *red,int *clase,int s1,int s2,int n);
+void  llenar(int *red,int n,float prob); //done
+int   hoshen(int *red,int n); //done
+int   actualizar(int *red,int *clase,int s,int frag); //done
+void  etiqueta_falsa(int *red,int *clase,int s1,int s2,int n); //done
 void  corregir_etiqueta(int *red,int *clase,int n);
 int   percola(int *red,int n);
-void  imprimir(int *red,int n);
+void  imprimir(int *red,int n); //done
 
 int main(int argc,char *argv[])
 {
@@ -32,11 +32,9 @@ int main(int argc,char *argv[])
 
   red=(int *)malloc(n*n*sizeof(int));
 
-
-
   for(i=0;i<z;i++)
     {
-      prob=0.5;
+      prob=0.6;
       denominador=2.0;
 
       srand(time(NULL));
@@ -50,12 +48,13 @@ int main(int argc,char *argv[])
 
           denominador=2.0*denominador; //kesesto
 
-          if (percola(red,n)){
-             prob+=(-1.0/denominador); }
-             else {prob+=(1.0/denominador);}
+          if (percola(red,n)) { prob+=(-1.0/denominador); }
+          else { prob+=(1.0/denominador); }
+
         }
     }
 
+  free(red);
 
   return 0;
 }
@@ -101,6 +100,7 @@ int hoshen(int *red,int n)
   // el resto de las filas
 
   for(i=n;i<n*n;i=i+n) //esto avanza de a n, ojo
+    {
 
       // primer elemento de cada fila
 
@@ -125,7 +125,7 @@ int hoshen(int *red,int n)
                   if (s1!=0) frag=actualizar(red+i+j,clase,s1,frag);
         	        else       frag=actualizar(red+i+j,clase,s2,frag);
         	      }
-
+        	  }
             }
 
 
@@ -148,6 +148,7 @@ void  llenar(int *red,int n,float prob)
 	Recibe el puntero a la red, el tamaño de la misma y la probabilidad de ocupar un sitio.
 	*/
 	int i,j;
+
 	for(i=0;i<n;i++) //row index
 	{
 		for(j=0;j<n;j++) //column index
@@ -223,27 +224,30 @@ void  imprimir(int *red,int n)
   for(i=0;i<n;i=i+1)
   {
     for(j=0;j<n;j=j+1)
+    {
+      if(red[i*n+j]==0) { printf("\x1B[0m %2.2d ",red[i*n + j]); }
+      else
       {
+
         printf("\x1B[36m %2.2d ",red[i*n + j]);
       }
+    }
     printf("\x1B[0m\n");
   }
   printf("\x1B[0m\n------\n");
+
 }
 
-int percola(int *red,int n)
+int percola(int *red, int n)
 {
-  /*Si percola, devuelve true*/
-  int j,k;
-  int a,b;
-
-  for(j=0;j<n;j++)
-  {
-    a = red[j];
-    for(k=n*(n-1);k<n*n;k++)
+    int i,j,a,b;
+    for(i=0;i<n;i++)
     {
-      b = red[k];
-      if(a==b && a!=0) {printf("perco: %2.2d\n",a);}
+      a = red[i];
+      for(j=n*(n-1);j<n*n;j++)
+      {
+        b=red[j];
+        if(a==b && a!=0) {printf("perco: %2.2d\n\n\n",a); return 1;}
+      }
     }
-  }
 }
