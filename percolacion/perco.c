@@ -3,8 +3,8 @@
 #include <math.h>
 #include <time.h>
 
-#define P     1             // 1/2^P, P=16
-#define Z     1          // iteraciones
+#define P     64             // 1/2^P, P=16
+#define Z     50          // iteraciones
 #define N     5             // lado de la red simulada
 
 
@@ -18,43 +18,64 @@ void  imprimir(int *red,int n); //done
 
 int main(int argc,char *argv[])
 {
-  int    i,j,n,z,*red;
-  float  prob,denominador;
+  int    i,j,n,z,p,*red;
+  float  prob,denominador,pc;
 
   n=N;
   z=Z;
+  p=P;
 
-  if (argc==3)
+  if (argc==4)
      {
        sscanf(argv[1],"%d",&n);
        sscanf(argv[2],"%d",&z);
+       sscanf(argv[3],"%d",&p);
      }
 
   red=(int *)malloc(n*n*sizeof(int));
 
+  FILE *output = fopen("output.txt", "w");
+  if (output == NULL)
+  {
+      printf("Error opening file!\n");
+      exit(1);
+  }
+
+  fprintf(output, "###INICIO ITERACIONES###\n##### dimension: %dx%d , iteraciones z: %d #####\n\n",n,n,z);
+
+
+
   for(i=0;i<z;i++)
     {
-      prob=0.6;
-      denominador=2.0;
+          srand(time(NULL));
+          prob=0.4;
+          denominador=2.0;
+          pc=prob;
+          for(j=0;j<P;j++)
+          {
+              llenar(red,n,prob); //llena red
+              imprimir(red,n);
+              hoshen(red,n); //etiqueta red
+              imprimir(red,n);
 
-      srand(time(NULL));
+              denominador = 2.0*denominador;
 
-      for(j=0;j<P;j++)
-        {
-          llenar(red,n,prob); //llena red
-          imprimir(red,n);
-          hoshen(red,n); //etiqueta red
-          imprimir(red,n);
+              if (percola(red,n))
+              {
+                printf("percola a proba: %.5f\n",prob);
+                pc = prob;
+                prob+=(-1.0/denominador);
+              }
+              else { prob+=(1.0/denominador); }
 
-          denominador=2.0*denominador; //kesesto
-
-          if (percola(red,n)) { prob+=(-1.0/denominador); }
-          else { prob+=(1.0/denominador); }
-
-        }
+          }
+          fprintf(output, "%.5f\n", pc);
     }
 
   free(red);
+
+  fclose(output);
+
 
   return 0;
 }
@@ -131,9 +152,11 @@ int hoshen(int *red,int n)
 
   corregir_etiqueta(red,clase,n);
 
+  /*
   int m;
   for(m=0;m<n*n;m++) { printf("%d | ", *(clase + m)); }
   printf("\n size clase: %d \n\n", n*n);
+  */
 
   free(clase);
 
@@ -238,16 +261,18 @@ void  imprimir(int *red,int n)
 
 }
 
-int percola(int *red, int n)
+int percola(int *red, int n) //falta percolacion entre izq y der
 {
-    int i,j,a,b;
+    int i,j,a,b,perco;
+    perco = 0;
     for(i=0;i<n;i++)
     {
       a = red[i];
       for(j=n*(n-1);j<n*n;j++)
       {
         b=red[j];
-        if(a==b && a!=0) {printf("perco: %2.2d\n\n\n",a); return 1;}
+        if(a==b && a!=0) { printf("perco: %2.2d\n\n\n",a); perco=1; }
       }
     }
+    return perco;
 }
