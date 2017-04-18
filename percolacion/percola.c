@@ -15,7 +15,11 @@ int percola(int *red, int n) //falta percolacion entre izq y der
       for(j=n*(n-1);j<n*n;j++)
       {
         b=red[j];
-        if(a==b && a!=0) { /*printf("perco: %2.2d\n\n\n",a);*/ perco=1; }
+        if(a==b && a!=0)
+        {
+           /*printf("perco: %2.2d\n\n\n",a);*/
+           perco=1; 
+        }
       }
     }
     return perco;

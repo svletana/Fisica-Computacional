@@ -5,11 +5,9 @@
 
 #include "functions.h"
 
-#define P     64             // 1/2^P, P=16
-#define Z     50            // iteraciones
+#define P     1             // 1/2^P, P=16
+#define Z     1            // iteraciones
 #define N     5             // lado de la red simulada
-
-
 
 int main(int argc,char *argv[])
 {
@@ -36,7 +34,9 @@ int main(int argc,char *argv[])
       exit(1);
   }
 
-  fprintf(output, "###INICIO ITERACIONES###\n##### dimension: %dx%d , iteraciones z: %d #####\n\n",n,n,z);
+  fprintf(output, "###INICIO ITERACIONES###\n##### dimension: %dx%d , iteraciones z: %d , P = %d #####\n\n",n,n,z,p);
+
+  float promedio = 0;
 
   for(i=0;i<z;i++)
     {
@@ -47,24 +47,28 @@ int main(int argc,char *argv[])
           for(j=0;j<P;j++)
           {
               llenar(red,n,prob); //llena red
-              //imprimir(red,n);
+              imprimir(red,n);
               hoshen(red,n); //etiqueta red
-              //imprimir(red,n);
+              imprimir(red,n);
 
               denominador = 2.0*denominador;
 
               if (percola(red,n))
               {
-                printf("percola a proba: %.5f\n",prob);
+                //printf("percola a proba: %.5f\n",prob);
                 pc = prob;
                 prob+=(-1.0/denominador);
               }
               else { prob+=(1.0/denominador); }
 
           }
+          promedio+=pc;
           fprintf(output, "%.5f\n", pc);
-          printf("z: %d",z);
+          if (i%100==0) { printf("iteracion actual: %d\n pc: %.5f\n",i,pc); }
     }
+
+  printf("\npromedio: %.5f\n",promedio/z);
+  fprintf(output,"\npromedio: %.5f\n",promedio/z);
 
   free(red);
   fclose(output);

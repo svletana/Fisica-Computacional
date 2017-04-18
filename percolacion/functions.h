@@ -5,3 +5,4 @@ void  etiqueta_falsa(int *red,int *clase,int s1,int s2,int n); //done
 void  corregir_etiqueta(int *red,int *clase,int n);
 int   percola(int *red,int n);
 void  imprimir(int *red,int n); //done
+int masa(int *red, int *clase, int n);

@@ -18,15 +18,15 @@ int hoshen(int *red,int n)
 
   frag=0;
 
-  clase=(int *)malloc(n*n*sizeof(int)); //alocatea el vector de etiquetas en memoria
+  clase=(int *)malloc(n*n*sizeof(int));
 
-  for(k=0;k<n*n;k++) *(clase+k)=frag; //...y la llena de ceros
+  for(k=0;k<n*n;k++) *(clase+k)=frag;
   *(clase + 1) = 1;
 
   // primer elemento de la red
 
   s1=0;
-  frag=2; //arrancvoid  corregir_etiqueta(int *red,int *clase,int n)amos con la etiqueta '2'
+  frag=2;
   if (*red) frag=actualizar(red,clase,s1,frag);
 
   // primera fila de la red
@@ -35,7 +35,7 @@ int hoshen(int *red,int n)
     {
       if (*(red+i))
          {
-           s1=*(red+i-1);  //esto agarra el elemento anterior
+           s1=*(red+i-1);  //agarra el elemento anterior
            frag=actualizar(red+i,clase,s1,frag);
          }
     }
@@ -43,7 +43,7 @@ int hoshen(int *red,int n)
 
   // el resto de las filas
 
-  for(i=n;i<n*n;i=i+n) //esto avanza de a n, ojo
+  for(i=n;i<n*n;i=i+n) //avanza de a n
     {
 
       // primer elemento de cada fila
@@ -74,6 +74,7 @@ int hoshen(int *red,int n)
 
 
   corregir_etiqueta(red,clase,n);
+  masa(red,clase,n);
 
   /*
   int m;
