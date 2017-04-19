@@ -14,11 +14,11 @@ int hoshen(int *red,int n)
   */
 
   int i,j,k,s1,s2,frag;
-  int *clase;
+  //int *clase,*s;
 
   frag=0;
 
-  clase=(int *)malloc(n*n*sizeof(int));
+  //clase=(int *)malloc(n*n*sizeof(int));
 
   for(k=0;k<n*n;k++) *(clase+k)=frag;
   *(clase + 1) = 1;
@@ -74,7 +74,7 @@ int hoshen(int *red,int n)
 
 
   corregir_etiqueta(red,clase,n);
-  masa(red,clase,n);
+  s = masa(red,clase,n);
 
   /*
   int m;
@@ -82,7 +82,7 @@ int hoshen(int *red,int n)
   printf("\n size clase: %d \n\n", n*n);
   */
 
-  free(clase);
+  //free(clase);
 
   return 0;
 }
