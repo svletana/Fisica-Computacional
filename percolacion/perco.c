@@ -3,15 +3,19 @@
 #include <math.h>
 #include <time.h>
 
-#include "functions.h"
-
 #define P     1             // 1/2^P, P=16
 #define Z     1            // iteraciones
 #define N     5             // lado de la red simulada
 
+/*VARIABLES GLOBALES*/
+int *clase;
+int *s;
+
+#include "functions.h"
+
 int main(int argc,char *argv[])
 {
-  int    i,j,n,z,p,*red;
+  int    i,j,k,n,z,p,*red;
   float  prob,denominador,pc;
 
   n=N;
@@ -26,24 +30,25 @@ int main(int argc,char *argv[])
      }
 
   red=(int *)malloc(n*n*sizeof(int));
+  clase = (int *)malloc(n*n*sizeof(int));
+  s = (int *)malloc(n*n*sizeof(int));
 
-  FILE *output = fopen("output.txt", "w");
-  if (output == NULL)
+  FILE *output = fopen("output.txt","w");
+  if(output == NULL)
   {
-      printf("Error opening file!\n");
-      exit(1);
+    printf("file not found!");
+    exit(1);
   }
 
-  fprintf(output, "###INICIO ITERACIONES###\n##### dimension: %dx%d , iteraciones z: %d , P = %d #####\n\n",n,n,z,p);
-
+  fprintf(output, "dimensiones red : %dx%d - Z : %d - P : %d\n\n",n,n,z,p);
   float promedio = 0;
 
   for(i=0;i<z;i++)
     {
           srand(time(NULL));
-          prob=0.4;
+          prob=0.58/*+i*dp*/;
           denominador=2.0;
-          pc=prob;
+          pc=0;
           for(j=0;j<P;j++)
           {
               llenar(red,n,prob); //llena red
@@ -51,27 +56,41 @@ int main(int argc,char *argv[])
               hoshen(red,n); //etiqueta red
               imprimir(red,n);
 
+              fprintf(output, "probabilidad:%.6f\n", prob);
+
+              fprintf(output, "---VECTOR CLASE---\n");
+              for(k=0;k<n*n;k++)
+              {
+                  fprintf(output,"%d | ",*(clase + k));
+              }
+              fprintf(output, "\n---VECTOR S---\n");
+              for(k=0;k<n*n;k++)
+              {
+                  fprintf(output,"%d | ",*(s + k));
+              }
+              fprintf(output, "\n");
+
               denominador = 2.0*denominador;
 
               if (percola(red,n))
               {
                 //printf("percola a proba: %.5f\n",prob);
                 pc = prob;
+                fprintf(output, "PERCOLA, etiqueta: %d\n probabilidad critica: %.6f\n",percola(red,n),pc);
                 prob+=(-1.0/denominador);
               }
-              else { prob+=(1.0/denominador); }
-
+              else { fprintf(output, "NO PERCOLA\n"); prob+=(1.0/denominador); }
+              //*(percolaciones*z+p) = percola(red,n);
           }
+          //*(p_criticas + z) = pc; //si nunca percola, va a ser cero
+          fprintf(output, "\n---FIN---\n\n");
           promedio+=pc;
-          fprintf(output, "%.5f\n", pc);
           if (i%100==0) { printf("iteracion actual: %d\n pc: %.5f\n",i,pc); }
     }
 
-  printf("\npromedio: %.5f\n",promedio/z);
-  fprintf(output,"\npromedio: %.5f\n",promedio/z);
-
+  fprintf(output, "\npromedio: %.6f\n",promedio/z);
   free(red);
-  fclose(output);
-
+  free(clase);
+  free(s);
   return 0;
 }
