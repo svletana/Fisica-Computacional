@@ -15,7 +15,7 @@ int *s;
 
 int main(int argc,char *argv[])
 {
-  int    i,j,k,n,z,p,*red;
+  int    i,j,k,u,n,z,p,*red;
   float  prob,denominador,pc;
 
   n=N;
@@ -42,9 +42,9 @@ int main(int argc,char *argv[])
 
   fprintf(output, "dimensiones red : %dx%d - Z : %d - P : %d\n\n",n,n,z,p);
 
-  float promedio = 0;
-  dp = 0.001
-  for(i=0;i<z;i++) //MODIFICAR COMO ESCRIBIMOS A UN ARCHIVO
+  //float promedio = 0;
+  //float dp = 0.01;
+  for(i=0;i<z;i++)
     {
           srand(time(NULL));
           prob=0.58/*+i*dp*/;
@@ -62,10 +62,14 @@ int main(int argc,char *argv[])
               fprintf(output, "---VECTOR CLASE---\n");
               for(k=0;k<n*n;k++)
               {
-                  fprintf(output,"%d | ",*(clase + k));
+                  if(*(clase + k)!=0 && k>0)
+                  {
+                    fprintf(output,"%d | ",*(clase + k));
+                    u=k;
+                  }
               }
               fprintf(output, "\n---VECTOR S---\n");
-              for(k=0;k<n*n;k++)
+              for(k=1;k<=u;k++)
               {
                   fprintf(output,"%d | ",*(s + k));
               }
@@ -84,11 +88,11 @@ int main(int argc,char *argv[])
               else { fprintf(output, "NO PERCOLA\n"); prob+=(1.0/denominador); }
           }
           fprintf(output, "\n---FIN---\n\n");
-          promedio+=pc;
+          //promedio+=pc;
           if (i%100==0) { printf("iteracion actual: %d\n pc: %.5f\n",i,pc); }
     }
 
-  fprintf(output, "\npromedio: %.6f\n",promedio/z);
+  //fprintf(output, "\npromedio: %.6f\n",promedio/z);
   free(red);
   free(clase);
   free(s);

@@ -19,7 +19,7 @@ int percola(int *red, int n) //falta percolacion entre izq y der
         b=red[j];
         if(a==b && a!=0)
         {
-           printf("perco: %2.2d\n\n\n",a);
+           //printf("perco: %2.2d\n\n\n",a);
            if(a!=q) { q=a;}
         }
       }
