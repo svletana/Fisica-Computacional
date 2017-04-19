@@ -55,6 +55,7 @@ int main(int argc,char *argv[])
           {
               llenar(red,n,prob); //llena red
               imprimir(red,n);
+              printf("\n --------- \n");
               hoshen(red,n); //etiqueta red, corre funcion masa y me da s y clase
               imprimir(red,n);
               printf("\n_________\n\n");

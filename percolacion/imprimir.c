@@ -21,6 +21,5 @@ void  imprimir(int *red,int n)
     }
     printf("\x1B[0m\n");
   }
-  printf("\x1B[0m\n------\n");
 
 }
