@@ -43,11 +43,12 @@ int main(int argc,char *argv[])
   fprintf(output, "dimensiones red : %dx%d - Z : %d - P : %d\n\n",n,n,z,p);
 
   //float promedio = 0;
-  //float dp = 0.01;
+
+  float dp = (double)1/z;
   for(i=0;i<z;i++)
     {
           srand(time(NULL));
-          prob=0.58/*+i*dp*/;
+          prob=i*dp;
           denominador=2.0;
           pc=0;
           for(j=0;j<P;j++)
@@ -56,6 +57,7 @@ int main(int argc,char *argv[])
               imprimir(red,n);
               hoshen(red,n); //etiqueta red, corre funcion masa y me da s y clase
               imprimir(red,n);
+              printf("\n_________\n\n");
 
               fprintf(output, "probabilidad:%.6f\n", prob);
 
@@ -81,7 +83,7 @@ int main(int argc,char *argv[])
               {
                 //printf("percola a proba: %.5f\n",prob);
                 pc = prob;
-                fprintf(output, "PERCOLA, etiqueta: %d\n probabilidad critica: %.6f\n",percola(red,n),pc);
+                fprintf(output, "PERCOLA, etiqueta: %d\n",percola(red,n));
                 prob+=(-1.0/denominador);
               }
 
@@ -89,7 +91,7 @@ int main(int argc,char *argv[])
           }
           fprintf(output, "\n---FIN---\n\n");
           //promedio+=pc;
-          if (i%100==0) { printf("iteracion actual: %d\n pc: %.5f\n",i,pc); }
+          if (i%100==0) { printf("iteracion actual: %d\n",i); } //esto es util si tenemos z muy grande, para saber por donde va
     }
 
   //fprintf(output, "\npromedio: %.6f\n",promedio/z);
