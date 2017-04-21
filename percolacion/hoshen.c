@@ -75,7 +75,7 @@ int hoshen(int *red,int n)
 
   corregir_etiqueta(red,clase,n);
   s = masa(red,clase,n);
-
+  
   /*
   int m;
   for(m=0;m<n*n;m++) { printf("%d | ", *(clase + m)); }
@@ -110,17 +110,26 @@ int   actualizar(int *red,int *clase,int s,int frag)
 
 void  etiqueta_falsa(int *red,int *clase,int s1,int s2, int n)
 {
+  int h;
   if(s1<s2)
   {
     *red = s1;
     *(red - n) = s1;
-    *(clase + s2) = -s1;
+    h = *(clase + s2);
+    if(h<0) {
+    while(h<0) { h = *(clase - h); }
+    *(clase + h) = -s1; }
+    else { *(clase + s2) = -s1; }
   }
   else if(s2<s1)
   {
     *red = s2;
     *(red - 1) = s2;
-    *(clase + s1) = -s2;
+    h = *(clase + s1);
+    if(h<0) {
+    while(h<0) { h = *(clase - h); }
+    *(clase + h) = -s2; }
+    else { *(clase + s1) = -s2; }
   }
   else
   {
@@ -131,6 +140,8 @@ void  etiqueta_falsa(int *red,int *clase,int s1,int s2, int n)
 void  corregir_etiqueta(int *red,int *clase,int n)
 {
   int k,h,p;
+  for(k=0;k<n*n;k++) printf("%d,",*(clase+k));
+  printf("\n\n");
   for(k=0;k<n*n;k++)
   {
     h = *(red + k);
