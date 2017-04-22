@@ -77,6 +77,10 @@ int hoshen(int *red,int n)
   printf("listo\n");
   corregir_etiqueta(red,clase,n);
   printf("y ya corregi etiqueta\n");
+
+  for(i=0;i<n*n;i++) printf("%d_", *(clase+i));
+  printf("\n");
+
   s = masa(red,clase,n);
 
   /*
@@ -114,23 +118,30 @@ int   actualizar(int *red,int *clase,int s,int frag)
 void  etiqueta_falsa(int *red,int *clase,int s1,int s2, int n)
 {
   int h,q;
+  //dunno
+  while(*(clase+s1)<0) { s1 = -*(clase+s1); }
+  while(*(clase+s2)<0) { s2 = -*(clase+s2); }
 
-  if(s1<s2)
+  if(s2>s1)
   {
     *red = s1;
-    *(red - n) = s1;
-    h = *(clase + s2);
+    *(clase + s2) = -s1;
+    *(clase + s1) = s1;
+    /*h = *(clase + s2);
     if(h>0) { *(clase + s2) = -s1; }
     else if(h<0)
     {
       printf("encontre h: %d\n", h);
       while(h<0) { printf("h actual: %d\n", h); h = *(clase - h); printf("h final: %d\n", h); }
       if(h!=s2) { printf("asigno: %d\n", h); *(clase + h) = - s1;} //ARREGLAR
-    }
+    }*/
   }
-  else if(s2<s1)
+  else if(s1>s2)
   {
     *red = s2;
+    *(clase + s1) = -s2;
+    *(clase + s2) = s2;
+    /*
     *(red - 1) = s2;
     h = *(clase + s1);
     if(h>0) { *(clase + s1) = -s2; }
@@ -139,7 +150,7 @@ void  etiqueta_falsa(int *red,int *clase,int s1,int s2, int n)
       printf("encontre h: %d\n", h);
       while(h<0) { printf("h actual: %d\n", h); h = *(clase - h); printf("h final: %d\n", h); }
       if(h!=s2) { printf("asigno: %d\n", h); *(clase + h) = - s2; } //ARREGLAR
-    }
+    }*/
   }
   else
   {
