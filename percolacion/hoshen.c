@@ -62,7 +62,7 @@ int hoshen(int *red,int n)
 
         	    if (s1*s2>0)
         	      {
-        		        etiqueta_falsa(red+i+j,clase,s1,s2,n); printf("%d\n", i+j);
+        		        etiqueta_falsa(red+i+j,clase,s1,s2,n); 
         	      }
         	    else
         	      {
@@ -72,24 +72,9 @@ int hoshen(int *red,int n)
         	  }
             }
 
-  printf("termine\n");
-  imprimir(red,n);
-  printf("listo\n");
   corregir_etiqueta(red,clase,n);
-  printf("y ya corregi etiqueta\n");
-
-  for(i=0;i<n*n;i++) printf("%d_", *(clase+i));
-  printf("\n");
-
   s = masa(red,clase,n);
 
-  /*
-  int m;
-  for(m=0;m<n*n;m++) { printf("%d | ", *(clase + m)); }
-  printf("\n size clase: %d \n\n", n*n);
-  */
-
-  //free(clase);
 
   return 0;
 }
@@ -118,7 +103,6 @@ int   actualizar(int *red,int *clase,int s,int frag)
 void  etiqueta_falsa(int *red,int *clase,int s1,int s2, int n)
 {
   int h,q;
-  //dunno
   while(*(clase+s1)<0) { s1 = -*(clase+s1); }
   while(*(clase+s2)<0) { s2 = -*(clase+s2); }
 
@@ -127,37 +111,17 @@ void  etiqueta_falsa(int *red,int *clase,int s1,int s2, int n)
     *red = s1;
     *(clase + s2) = -s1;
     *(clase + s1) = s1;
-    /*h = *(clase + s2);
-    if(h>0) { *(clase + s2) = -s1; }
-    else if(h<0)
-    {
-      printf("encontre h: %d\n", h);
-      while(h<0) { printf("h actual: %d\n", h); h = *(clase - h); printf("h final: %d\n", h); }
-      if(h!=s2) { printf("asigno: %d\n", h); *(clase + h) = - s1;} //ARREGLAR
-    }*/
   }
   else if(s1>s2)
   {
     *red = s2;
     *(clase + s1) = -s2;
     *(clase + s2) = s2;
-    /*
-    *(red - 1) = s2;
-    h = *(clase + s1);
-    if(h>0) { *(clase + s1) = -s2; }
-    else if(h<0)
-    {
-      printf("encontre h: %d\n", h);
-      while(h<0) { printf("h actual: %d\n", h); h = *(clase - h); printf("h final: %d\n", h); }
-      if(h!=s2) { printf("asigno: %d\n", h); *(clase + h) = - s2; } //ARREGLAR
-    }*/
   }
   else
   {
     actualizar(red,clase,s1,s1);
   }
-  for(q=0;q<n*n;q++) printf("%d_", *(clase+q));
-  printf("\n");
 }
 
 void  corregir_etiqueta(int *red,int *clase,int n)
