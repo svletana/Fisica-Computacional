@@ -15,18 +15,19 @@ int *s;
 
 int main(int argc,char *argv[])
 {
-  int    i,j,k,u,n,z,p,*red;
-  float  prob,denominador,pc;
+  int    i,j,k,u,n,z,p,ph,*red;
+  float  prob,denominador,pc,pp;
 
   n=N;
   z=Z;
   p=P;
 
-  if (argc==4)
+  if (argc==5)
      {
        sscanf(argv[1],"%d",&n);
        sscanf(argv[2],"%d",&z);
        sscanf(argv[3],"%d",&p);
+       sscanf(argv[4],"%f",&pp);
      }
 
   red=(int *)malloc(n*n*sizeof(int));
@@ -50,7 +51,7 @@ int main(int argc,char *argv[])
     {
           srand(time(NULL));
 
-          prob=0.5;
+          prob=pp;
           denominador=2.0;
           pc=0;
 
@@ -65,29 +66,29 @@ int main(int argc,char *argv[])
               fprintf(output, "probabilidad:%.6f\n", prob);
               fprintf(output, "---VECTOR CLASE---\n");
               */
-              /*
+
               for(k=0;k<n*n;k++)
               {
                   if(*(clase + k)!=0 && k>0)
                   {
                     printf("%d,",*(clase + k));
-                    //u=k;
+                    u=k;
                   }
               }
-              */
-              /*fprintf(output, "\n---VECTOR S---\n");
+              printf("\n\n");
+              /*fprintf(output, "\n---VECTOR S---\n");*/
               for(k=1;k<=u;k++)
               {
-                  fprintf(output,"%d | ",*(s + k));
-              }*/
+                  printf("%d,",*(s + k));
+              }
 
               denominador = 2.0*denominador;
 
-              if (percola(red,n))
+              ph = percola(red,n);
+              if (ph)
               {
-                 if(j%100==0) printf("%.6f\n",prob);
                 //printf("percola, p = %.6f\n", prob);
-                pc = prob;
+                //pc = prob;
                 //fprintf(output, "PERCOLA, etiqueta: %d\n",percola(red,n));
                 prob+=(-1.0/denominador);
               }
@@ -96,11 +97,14 @@ int main(int argc,char *argv[])
           }
           //fprintf(output, "\n---FIN---\n\n");
           //if (i%100==0) { printf("iteracion actual: %d\n",i); } //esto es util si tenemos z muy grande, para saber por donde va
-          promedio+=pc;
+          //promedio+=pc;
+          //printf("%.6f,",pc);
     }
 
   //fprintf(output, "\npromedio: %.6f\n",promedio/z);
-  printf("\n%.6f\n", promedio/z);
+  //printf("\n\n%.6f", promedio/z);
+  //printf("%dFIN", ph);
+  //printf("%f", pp);
   free(red);
   free(clase);
   free(s);
