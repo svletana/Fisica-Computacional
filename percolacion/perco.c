@@ -15,45 +15,40 @@ int *s;
 
 int main(int argc,char *argv[])
 {
-  int    i,j,k,u,n,z,p,ph,*red;
-  float  prob,denominador,pc,pp;
+  int    i,j,k,l,u,w,n,z,p,ph,*red,*ss;  /* puede ser que algunas variables definidas terminen sin ser usadas, dependiendo que ejercicio este haciendo */
+  float  prob,denominador,pc;
 
   n=N;
   z=Z;
   p=P;
 
-  if (argc==5)
+  if (argc==4)
      {
        sscanf(argv[1],"%d",&n);
        sscanf(argv[2],"%d",&z);
        sscanf(argv[3],"%d",&p);
-       sscanf(argv[4],"%f",&pp);
      }
 
   red=(int *)malloc(n*n*sizeof(int));
   clase = (int *)malloc(n*n*sizeof(int));
   s = (int *)malloc(n*n*sizeof(int));
 
-/*
-  FILE *output = fopen("output.txt","w");
+
+  FILE *output = fopen("out1d.txt","w");
   if(output == NULL)
   {
-    printf("file not found!");
+    fprintf(stderr,"file not found!");
     exit(1);
   }
 
-  fprintf(output, "dimensiones red : %dx%d - Z : %d - P : %d\n\n",n,n,z,p);
-*/
-  float promedio = 0;
-
-  //float dp = (double)1/z;
+  //float promedio = 0; // ejercicio 1a
+  
   for(i=0;i<z;i++)
     {
           srand(time(NULL));
-
-          prob=pp;
+          prob=0.59; // para ejercicio 1d, uso pc encontrada para cada tamaño de red. para el 1a y 1c pongo 0.55
           denominador=2.0;
-          pc=0;
+          //pc=0; //ejercicio 1a
 
           for(j=0;j<p;j++)
           {
@@ -62,49 +57,47 @@ int main(int argc,char *argv[])
               //imprimir(red,n); printf("\n --------- \n");
               hoshen(red,n);
               //imprimir(red,n); printf("\n_________\n\n");
-              /*
-              fprintf(output, "probabilidad:%.6f\n", prob);
-              fprintf(output, "---VECTOR CLASE---\n");
-              */
 
-              for(k=0;k<n*n;k++)
+              /* ---EJERCICIO 1(d)--- */
+              fprintf(output, "%.6f\n", prob);
+              //esto es para descartar los valores de etiqueta que no se ocuparon, ya que de entrada el array es de n*n
+              w=0;
+              for(k=2;k<n*n;k++)
               {
-                  if(*(clase + k)!=0 && k>0)
+                  if(*(clase + k)>=2)
                   {
-                    printf("%d,",*(clase + k));
-                    u=k;
+                    w++;//esto seria la cantidad de veces que encontro una etiqueta valida
+                    u=k; //indice de la ultima etiqueta valida
                   }
               }
-              printf("\n\n");
-              /*fprintf(output, "\n---VECTOR S---\n");*/
-              for(k=1;k<=u;k++)
+              ss = (int *)malloc(w*sizeof(int));
+              l=0;
+              for(k=2;k<=u;k++)
               {
-                  printf("%d,",*(s + k));
+                  if(*(s+k)!=0) { *(ss+l) = *(s+k); l++; }
               }
+              for(k=0;k<w;k++) fprintf(output, "%d,", *(ss+k));
+              fprintf(output, "\n\n"); //delimita cada tira de datos corresp. a una probabilidad
+              /* --- --- */
 
               denominador = 2.0*denominador;
 
               ph = percola(red,n);
               if (ph)
               {
-                //printf("percola, p = %.6f\n", prob);
                 //pc = prob;
-                //fprintf(output, "PERCOLA, etiqueta: %d\n",percola(red,n));
                 prob+=(-1.0/denominador);
               }
 
-              else { /*fprintf(output, "NO PERCOLA\n");*/ prob+=(1.0/denominador); }
+              else { prob+=(1.0/denominador);}
           }
-          //fprintf(output, "\n---FIN---\n\n");
-          //if (i%100==0) { printf("iteracion actual: %d\n",i); } //esto es util si tenemos z muy grande, para saber por donde va
-          //promedio+=pc;
-          //printf("%.6f,",pc);
+          //promedio+=pc; //ejercicio 1(a)
+          //fprintf(output, "%.6f,", pc);
     }
 
-  //fprintf(output, "\npromedio: %.6f\n",promedio/z);
-  //printf("\n\n%.6f", promedio/z);
-  //printf("%dFIN", ph);
-  //printf("%f", pp);
+  //fprintf(output, "\n\npromedio: %.6f",promedio/z);
+  fclose(output);
+
   free(red);
   free(clase);
   free(s);
