@@ -62,7 +62,7 @@ int hoshen(int *red,int n)
 
         	    if (s1*s2>0)
         	      {
-        		        etiqueta_falsa(red+i+j,clase,s1,s2,n); 
+        		        etiqueta_falsa(red+i+j,clase,s1,s2,n);
         	      }
         	    else
         	      {
@@ -102,7 +102,6 @@ int   actualizar(int *red,int *clase,int s,int frag)
 
 void  etiqueta_falsa(int *red,int *clase,int s1,int s2, int n)
 {
-  int h,q;
   while(*(clase+s1)<0) { s1 = -*(clase+s1); }
   while(*(clase+s2)<0) { s2 = -*(clase+s2); }
 

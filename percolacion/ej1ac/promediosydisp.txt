@@ -1,7 +1,9 @@
+datos obtenidos a partir del script punto1ac.py
+
 L=4, dispersion=0.00474064357754146, promedio=0.58286
 L=16, dispersion=0.0018532088678616875, promedio=0.586175
 L=32, dispersion=0.0007040579496844691, promedio=0.59377
 L=64, dispersion=0.0002763793349900241, promedio=0.593381
-L=128,
+L=128, dispersion=0.00027574297570012, promedio=0.593474
 
-se usaron 500 puntos para sacar el promedio y la dispersion de pc's.
+se usaron 5000 puntos para sacar el promedio y la dispersion de pc's.

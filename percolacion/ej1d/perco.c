@@ -16,7 +16,7 @@ int *s;
 int main(int argc,char *argv[])
 {
   int    i,j,k,l,u,w,n,z,p,ph,*red,*ss;  /* puede ser que algunas variables definidas terminen sin ser usadas, dependiendo que ejercicio este haciendo */
-  float  prob,denominador,pc;
+  float  prob,denominador;
 
   n=N;
   z=Z;
@@ -41,14 +41,14 @@ int main(int argc,char *argv[])
     exit(1);
   }
 
-  //float promedio = 0; // ejercicio 1a
-  
+  float dp = 0.5/z;
+  printf("%f\n", dp);
+
   for(i=0;i<z;i++)
     {
           srand(time(NULL));
-          prob=0.59; // para ejercicio 1d, uso pc encontrada para cada tamaño de red. para el 1a y 1c pongo 0.55
-          denominador=2.0;
-          //pc=0; //ejercicio 1a
+          prob=0.5+i*dp; // para ejercicio 1d, uso pc encontrada para cada tamaño de red en el ejercicio 1a
+          denominador=2.0
 
           for(j=0;j<p;j++)
           {
@@ -70,8 +70,10 @@ int main(int argc,char *argv[])
                     u=k; //indice de la ultima etiqueta valida
                   }
               }
+
               ss = (int *)malloc(w*sizeof(int));
               l=0;
+
               for(k=2;k<=u;k++)
               {
                   if(*(s+k)!=0) { *(ss+l) = *(s+k); l++; }
@@ -91,11 +93,8 @@ int main(int argc,char *argv[])
 
               else { prob+=(1.0/denominador);}
           }
-          //promedio+=pc; //ejercicio 1(a)
-          //fprintf(output, "%.6f,", pc);
     }
 
-  //fprintf(output, "\n\npromedio: %.6f",promedio/z);
   fclose(output);
 
   free(red);

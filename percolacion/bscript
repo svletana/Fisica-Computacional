@@ -1,5 +1,0 @@
-#!/bin/bash
-make
-./out 512 27000 64
-mv output.txt 512x512_p
-mv 512x512_p promedios/

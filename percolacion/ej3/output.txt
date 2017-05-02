@@ -1,0 +1,10000 @@
+0.595000PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 15
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 26
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 20
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 26
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 26
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 19
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 32
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 18
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 15
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 17
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 30
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 23
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 26
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 30
+NO PERCOLA
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 30
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 24
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 30
+PERCOLA, etiqueta: 18
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 31
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 16
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 15
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 27
+NO PERCOLA
+PERCOLA, etiqueta: 18
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 21
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 26
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 14
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 18
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 14
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 27
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 18
+NO PERCOLA
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 17
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 26
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 23
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 26
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 20
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 32
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 24
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 21
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 18
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 18
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 24
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 18
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 32
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 21
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 24
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 24
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 29
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 24
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 29
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 27
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 34
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 21
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 29
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 29
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 25
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 18
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 22
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 23
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 14
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 30
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 27
+NO PERCOLA
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 22
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 25
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 27
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 24
+NO PERCOLA
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 16
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 30
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 29
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 26
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 14
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 29
+PERCOLA, etiqueta: 14
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 32
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 23
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 17
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 16
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 24
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 15
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 21
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 22
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 19
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 15
+NO PERCOLA
+PERCOLA, etiqueta: 15
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 24
+NO PERCOLA
+PERCOLA, etiqueta: 18
+NO PERCOLA
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 26
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 23
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 32
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 23
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 18
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 26
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 27
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 15
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 20
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 30
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 25
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 21
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 26
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 19
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 15
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 17
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 18
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 30
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 22
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 14
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 26
+NO PERCOLA
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 22
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 26
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 29
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 24
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 30
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 23
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 15
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 16
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 19
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 35
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 32
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 21
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 25
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 15
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 28
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 15
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 26
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 25
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 26
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 25
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 15
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 30
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 17
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 21
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 25
+NO PERCOLA
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 29
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 15
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 19
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 30
+PERCOLA, etiqueta: 31
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 34
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 25
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 15
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 21
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 16
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 23
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 33
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 15
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 30
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 29
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 23
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 15
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 16
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 15
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 16
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 19
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 28
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 16
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 26
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 28
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 24
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 21
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 24
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 18
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 15
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 27
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 30
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 14
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 32
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 30
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 23
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 28
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 34
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 25
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 16
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 21
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 25
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 30
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 28
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 26
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 29
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 15
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 15
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 21
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 28
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 28
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 18
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 26
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 29
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 23
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 26
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 29
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 24
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 34
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 26
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 19
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 15
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 30
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 15
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 14
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 15
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 29
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 28
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 26
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 26
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 25
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 15
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 21
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 24
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 25
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 25
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 27
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 18
+NO PERCOLA
+PERCOLA, etiqueta: 35
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 18
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 14
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 26
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 26
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 27
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 15
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 24
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 36
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 23
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 25
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 26
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 15
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 15
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 24
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 18
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 26
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 26
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 19
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 26
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 14
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 32
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 18
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 26
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 25
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 31
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 23
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 24
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 31
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 15
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 35
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 24
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 27
+NO PERCOLA
+PERCOLA, etiqueta: 28
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 15
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 29
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 30
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 16
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 21
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 15
+NO PERCOLA
+PERCOLA, etiqueta: 27
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 32
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 18
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 30
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 32
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 25
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 16
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 24
+NO PERCOLA
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 23
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 32
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 29
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 23
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 35
+NO PERCOLA
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 18
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 16
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 32
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 16
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 30
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 20
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 29
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 30
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 36
+PERCOLA, etiqueta: 29
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 14
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 15
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 25
+NO PERCOLA
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 33
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 27
+NO PERCOLA
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 36
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 15
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 29
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 14
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 30
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 32
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 19
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 19
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 16
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 26
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 19
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 30
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 28
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 28
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 26
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 15
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 22
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 28
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 18
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 24
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 20
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 18
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 23
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 15
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 32
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 26
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 26
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 23
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 29
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 15
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 27
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 26
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 31
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 25
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 32
+NO PERCOLA
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 22
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 14
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 25
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 20
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 31
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 22
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 25
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 26
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 35
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 31
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 21
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 29
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 37
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 31
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 25
+NO PERCOLA
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 17
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 26
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 34
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 19
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 21
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 30
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 21
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 23
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 30
+NO PERCOLA
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 24
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 29
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 26
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 19
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 23
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 18
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 16
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 29
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 17
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 25
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 23
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 23
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 26
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 25
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 29
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 32
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 21
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 29
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 15
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 26
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 24
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 26
+NO PERCOLA
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 27
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 19
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 27
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 22
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 23
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 18
+NO PERCOLA
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 15
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 25
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 26
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 15
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 29
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 25
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 26
+NO PERCOLA
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 23
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 26
+PERCOLA, etiqueta: 27
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 26
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 26
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 25
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 14
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 25
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 18
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 29
+NO PERCOLA
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 15
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 18
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 20
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 25
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 26
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 30
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 14
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 30
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 23
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 24
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 24
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 26
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 18
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 25
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 23
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 19
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 15
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 35
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 31
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 30
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 27
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 18
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 24
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 26
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 14
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 19
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 29
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 24
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 19
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 15
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 26
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 19
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 30
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 26
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 26
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 18
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 18
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 39
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 23
+NO PERCOLA
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 25
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 36
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 23
+NO PERCOLA
+PERCOLA, etiqueta: 18
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 21
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 14
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 23
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 23
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 33
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 15
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 29
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 22
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 27
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 25
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 27
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 18
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 22
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 14
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 18
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 24
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 23
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 28
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 25
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 28
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 15
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 31
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 29
+PERCOLA, etiqueta: 15
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 27
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 23
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 20
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 26
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 30
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 18
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 34
+PERCOLA, etiqueta: 28
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 15
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 29
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 26
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 18
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 33
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 29
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 26
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 26
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 26
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 18
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 19
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 28
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 29
+NO PERCOLA
+PERCOLA, etiqueta: 31
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 24
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 15
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 18
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 31
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 15
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 18
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 19
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 21
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 15
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 29
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 30
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 18
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 30
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 15
+NO PERCOLA
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 15
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 30
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 14
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 26
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 29
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 15
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 15
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 18
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 18
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 16
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 26
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 24
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 20
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 24
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 18
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 26
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 30
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 28
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 22
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 19
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 32
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 24
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 22
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 22
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 30
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 30
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 29
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 29
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 14
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 19
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 23
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 24
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 18
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 19
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 18
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 20
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 29
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 22
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 28
+NO PERCOLA
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 15
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 21
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 23
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 14
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 31
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 19
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 27
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 14
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 9
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 20
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 17
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 33
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 23
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 29
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 19
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 15
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 22
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 27
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 18
+NO PERCOLA
+PERCOLA, etiqueta: 16
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 15
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 6
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 13
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 18
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 32
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 16
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 25
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 15
+NO PERCOLA
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 26
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 30
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 20
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 25
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 14
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 21
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 27
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 20
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 25
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 14
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 13
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 18
+PERCOLA, etiqueta: 14
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 23
+PERCOLA, etiqueta: 11
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 25
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 8
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 13
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 7
+NO PERCOLA
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 5
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 33
+NO PERCOLA
+PERCOLA, etiqueta: 28
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 15
+PERCOLA, etiqueta: 24
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 7
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 26
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 28
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 9
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 14
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 5
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 24
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 17
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 2
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 9
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 8
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 10
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 12
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 20
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+NO PERCOLA
+PERCOLA, etiqueta: 26
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 5
+PERCOLA, etiqueta: 18
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 11
+NO PERCOLA
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 12
+NO PERCOLA
+PERCOLA, etiqueta: 14
+PERCOLA, etiqueta: 2
+NO PERCOLA
+PERCOLA, etiqueta: 4
+NO PERCOLA
+PERCOLA, etiqueta: 10
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 3
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 26
+PERCOLA, etiqueta: 25
+PERCOLA, etiqueta: 26
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+NO PERCOLA
+PERCOLA, etiqueta: 27
+PERCOLA, etiqueta: 6
+PERCOLA, etiqueta: 8
+PERCOLA, etiqueta: 4
+PERCOLA, etiqueta: 2
+PERCOLA, etiqueta: 16
+NO PERCOLA
+PERCOLA, etiqueta: 11
+PERCOLA, etiqueta: 22
+PERCOLA, etiqueta: 2
+NO PERCOLA
